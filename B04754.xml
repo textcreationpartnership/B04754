@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A poem to His Highness, the Prince of Orange, to welcome him into the city of London. / Written by a son of the Church of England.</title>
+            <author>Son of the Church of England.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04754</idno>
+            <idno type="STC">Wing P2704A</idno>
+            <idno type="STC">ESTC R181907</idno>
+            <idno type="EEBO-CITATION">52614842</idno>
+            <idno type="OCLC">ocm 52614842</idno>
+            <idno type="VID">176010</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04754)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176010)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2759:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A poem to His Highness, the Prince of Orange, to welcome him into the city of London. / Written by a son of the Church of England.</title>
+                  <author>Son of the Church of England.</author>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for L.C. in Holbourn,</publisher>
+                  <pubPlace>[London, :</pubPlace>
+                  <date>1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Caption title.</note>
+                  <note>Initial letter.</note>
+                  <note>Reproduction of original in: Trinty College (Dublin, Ireland) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702 --  Poetry --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:176010:1"/>
+            <head>A POEM To His HIGHNESS, the PRINCE of ORANGE, To Welcome Him into the CITY of LONDON.</head>
+            <byline>Written by a SON of the <hi>Church</hi> of <hi>England.</hi>
+            </byline>
+            <lg>
+               <l>
+                  <seg rend="decorInit">I</seg>N Lawleſs Times, when <hi>Romes</hi> devouring Jaws,</l>
+               <l>Swallow'd our <hi>Peace, Religion,</hi> and our <hi>Laws;</hi>
+               </l>
+               <l>When <hi>Subjects Rights</hi> lay cruſh'd beneath the <hi>Throne,</hi>
+               </l>
+               <l>And that Debauch'd by th' <hi>Whore of Babylon,</hi>
+               </l>
+               <l>When Loyal Wits by <hi>Popiſh</hi> Knaves were fool'd,</l>
+               <l>And all the <hi>State</hi> by <hi>Romes</hi> dark Counſels Rul'd:</l>
+               <l>When Lyes confirm'd were, and the Truth run down,</l>
+               <l>And <hi>Beads</hi> became the Jewels of the Crown:</l>
+               <l>When all the Nation in a deep Deſpair,</l>
+               <l>Lay groaning, Cruſh'd beneath a load of Care:</l>
+               <l>When Legal Order was by <hi>Prieſts</hi> confus'd,</l>
+               <l>The Laws corrupted, and the Juſt abus'd;</l>
+               <l>The <hi>Crown</hi> and <hi>Croſs</hi> in ſubtle Union joyn'd,</l>
+               <l>Made Private Leagues, for publick Ills deſign'd:</l>
+               <l>Thus <hi>England</hi> lay expecting of its Doom,</l>
+               <l>Expos'd to all the Greedy Woolves of <hi>Rome.</hi>
+               </l>
+               <l>But <hi>Heaven,</hi> who their Black Stratagems had ſeen,</l>
+               <l>With a Bleſt Care divinely ſtept between,</l>
+               <l>Their cloſe infernal Treacheries to prevent,</l>
+               <l>Reſolv'd to Chuſe ſome Humane Inſtrument;</l>
+               <l>And none ſo fit on Earth, (could Heaven ſee)</l>
+               <l>For this bleſt Enterprize, Great PRINCE, as Thee.</l>
+               <l>O Mighty SAVIOUR, whom juſt Heaven has Choſe,</l>
+               <l>To keep Us from the Violence of our Foes:</l>
+               <l>How ſhall we ſet forth Thy Immortal FAME,</l>
+               <l>Or in fit Accents Celebrate Thy NAME!</l>
+               <l>Humane Abilities it far exceeds,</l>
+               <lg>
+                  <l>To ſpeak at large, the Greatneſs of Thy Deeds:</l>
+                  <l>'Tis <hi>Thou</hi> (O PRINCE) has ſet the Nation free,</l>
+                  <l>Redeem'd us all from <hi>Romes</hi> vile Slaverie,</l>
+               </lg>
+               <l>And Plac'd us in our Antient Libertie.</l>
+               <pb facs="tcp:176010:2"/>
+               <l> We through <hi>Thy</hi> Aid (by Heavens Decree imploy'd)</l>
+               <l>Poſſeſs thoſe Rights we heretofore enjoy'd,</l>
+               <l>
+                  <hi>Religion,</hi> which the Good delights to ſee,</l>
+               <l>Eſtabliſh'd in its ſplendid Propertie,</l>
+               <l>By falſe Authority was Trampled down,</l>
+               <l>And baſely Worried 'twixt the Croſs and Crown:</l>
+               <lg>
+                  <l>But now behold Her foes Thy Juſtice ſhun,</l>
+                  <l>And into dark Obſcurities they run,</l>
+                  <l>Like gloving miſts diſperſe before the Sun.</l>
+               </lg>
+               <l>Great PRINCE! Thy Coming does no leſs preſage,</l>
+               <l>Than the Bleſt Sun-ſhine, of a Peaceful Age;</l>
+               <l>Who would their Fortunes from thy Service ſpare,</l>
+               <l>Since ev'ry one will the Advantage Share;</l>
+               <l>Or who'd deny the Homage juſtly due,</l>
+               <l>(For our <hi>Deliverance</hi>) Mighty PRINCE, to you;</l>
+               <l>He deſerves bondage who omits the pains</l>
+               <l>Of ſtrugling, to releaſe himſelf from Chains.</l>
+               <l>O Happy <hi>Albion,</hi> didſt thou rightly know</l>
+               <l>The Bleſſings Heaven upon Thee doth beſtow;</l>
+               <l>Thou'ſt pray His Power might as a Screen indure,</l>
+               <l>Whoſe <hi>Potent Arm</hi> has kept our Peace ſecure;</l>
+               <lg>
+                  <l>Who at one Blaſt has all our Cares o'reblown,</l>
+                  <l>Reſtor'd thoſe Rights we Juſtly call our own,</l>
+                  <l>And frighted <hi>Rooms</hi> Black Agens from the Throne.</l>
+               </lg>
+               <l>Ye Sons of <hi>Englands Church</hi> your fears deſtroy,</l>
+               <l>For Heaven aſſures us of an Age of Joy;</l>
+               <l>Let us a Chearful Gladneſs now expreſs,</l>
+               <l>Due to the proſpect of our Happineſs:</l>
+               <l>Welcome Great PRINCE, more welcome let us ſay,</l>
+               <l>Than to the <hi>Perſians</hi> is the Riſing day.</l>
+               <l>Long may He live, and ever youthful be</l>
+               <l>With Honour Crown'd, Cloath'd with Felicity;</l>
+               <l>Purſu'd by Fame, by all Diverſion met;</l>
+               <l>Free from the leaſt Misfortune or Regret:</l>
+               <l>May all Proſperity His Life attend,</l>
+               <l>And every Action with a Bleſſing end;</l>
+               <l>May Heaven to each Adventure give Succeſs,</l>
+               <l>And all His Days and Undertakings bleſs;</l>
+               <l>And may He Crown'd be, whenſoe're He dyes,</l>
+               <l>(For this Great Deed) with Everlaſting Joys.</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>I. C.</hi> in <hi>Holbourn.</hi> 1688.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
